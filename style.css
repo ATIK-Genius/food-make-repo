@@ -1,0 +1,89 @@
+
+body{
+  font-family: sans-serif;
+  margin: 0;
+}
+section{
+  display: flex;
+
+}
+.red-color{
+  color:red;
+}
+.half-width{
+  width: 40%;
+  padding: 8%;
+}
+  
+.half-width img{
+  width: 80%;
+}
+.expeience-item{
+  width: 40%;
+  padding: 8%;
+  margin-left: 250px;
+}
+  
+
+.new-class{
+  margin-left: 5px;
+  margin-right: 10px;
+  padding-left: 5px;
+  padding-right: 10px;
+  box-shadow: 10px 10px 10px gray;
+  border: 10px solid white;
+}
+
+.expeience-item img{
+  width: 105%;
+  border-start-end-radius: 5%;
+
+}
+.order-food{
+  background-image:linear-gradient(gray,red);
+  padding: 10px 20px;
+  text-decoration: none;
+  color:wheat;
+  font-weight: 700;
+  border-radius: 20px;
+}
+.frame img{
+  width: 100%;
+  margin: 20px auto;
+}
+
+.omg{
+  width: 50%;
+  margin-right: 150px;
+
+}
+.omg p{
+  text-align: justify;
+}
+.omg h1{
+  text-transform: uppercase;
+}
+.ulta-palta{
+  display: flex;
+}
+.second-image{
+  width: 100%;
+}
+.second-image img{
+  width: 400px;
+}
+.my-recpi{
+  text-align: center;
+}
+.my-recpi p{
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.footer-section{
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  margin: 0 auto;
+  width:960px;
+  padding-top: 10px;
+}
